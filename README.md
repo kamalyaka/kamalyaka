@@ -1,3 +1,3 @@
-## Welcome to my profile!
-#### I have no idea what to write on my profile README yet but i will change it tomorrow.
-![Placeholder Image](https://mir-s3-cdn-cf.behance.net/project_modules/disp/1a9d8731621339.570b03bd21232.png "Placeholder image.")
+# kamalyaka Projects
+### I code stuff. I am a web developer, you can check out a few of my projects down below in the Pins section.
+### You can find me on discord with the discord tag "kamalyaka#0646", we can talk if you wanna.
